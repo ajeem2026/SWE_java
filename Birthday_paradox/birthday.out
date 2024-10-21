@@ -1,0 +1,15 @@
+Abid's birth month is April and his birthday is on the 30th!
+
+Automated testing ....
+Random month1: November
+Random day1: 20
+String rep: Birth Month: November
+	Birth day: 20
+Random month1: July
+Random day1: 5
+String rep: Birth Month: July
+	Birth day: 5
+Equal Test: Different random birthdays!
+Constraint test: Random month is valid!
+Constraint test: Index of month is within range: 10
+Constraint test: You are within the range of days of this month!
