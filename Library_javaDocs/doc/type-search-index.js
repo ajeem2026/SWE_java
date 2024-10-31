@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.wlu.cs.ajeem2026","l":"Album"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.wlu.cs.ajeem2026","l":"AudioBook"},{"p":"edu.wlu.cs.ajeem2026.collections","l":"Driver"},{"p":"edu.wlu.cs.ajeem2026","l":"Driver"},{"p":"edu.wlu.cs.ajeem2026","l":"MediaItem"},{"p":"edu.wlu.cs.ajeem2026","l":"Movie"}];updateSearchResults();

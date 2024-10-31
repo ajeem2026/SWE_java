@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.wlu.cs.ajeem2026"},{"l":"edu.wlu.cs.ajeem2026.collections"}];updateSearchResults();
